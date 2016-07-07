@@ -1,6 +1,8 @@
 # alpine-mysql
 
-A docker image of mysql based on the alpine docker image.
+A docker image of mariadb based on the alpine docker image.
+
+The image has mariadb 10.1, equivalent of mysql 5.7.
 
 Get the image from [dockerhub](https://hub.docker.com/r/wangxian/alpine-mysql/).
 
